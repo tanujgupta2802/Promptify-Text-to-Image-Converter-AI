@@ -33,12 +33,13 @@ const Header = () => {
           className="text-gray-600 font-semibold inline-flex text-center gap-2 bg-white 
         px-3 sm:px-6 py-2 mt-3 sm:mt-0 shadow-xl shadow-orange-200/50 rounded-full bg-gradient-to-b from-teal-200 to-orange-200 cursor-context-menu"
         >
-          <p>Best text to image converter</p>
+          <p>Best prompt to image converter</p>
           <img src={assets.star_icon} alt="" />
         </motion.div>
 
         <motion.h1 className="text-5xl max-w-[300px] sm:text-[55px] sm:max-w-[590px] mx-auto mt-15 text-center">
-          Turn text to <span className="text-blue-600">image</span>, in seconds
+          Turn prompt to <span className="text-blue-600">image</span>, in
+          seconds
         </motion.h1>
 
         <motion.p
