@@ -1,6 +1,6 @@
 # Promptify – AI Prompt-to-Image Generator
 
-Promptify is a *full-stack SaaS application* that converts text prompts into high-quality images within seconds using *Generative AI*.
+Promptify is a *full-stack SaaS application* that converts text prompts into high-quality images within seconds using React.js, Node/Express.js, MongoDB, Tailwind CSS with *Generative AI*.
 
 ## 🚀 Features
 - Text-to-image generation with *ClipDrop AI API*  
